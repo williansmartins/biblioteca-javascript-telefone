@@ -2,7 +2,10 @@
 
 ![Exemplo](https://github.com/williansmartins/biblioteca-javascript-telefone/blob/master/exemplo.png?raw=true)
 
-## Super simples de usar esta biblioteca.
+Exemplo da biblioteca funcionando:
+![Exemplo](https://williansmartins.github.io/biblioteca-javascript-telefone/)
+
+## Super simples de usar esta biblioteca:
 
 ### Adicionar dependências:
 ```
