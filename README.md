@@ -1,8 +1,9 @@
 # biblioteca-javascript-telefone
+## Uma biblioteca simples de usar que já traz pronto as máscaras utilizadas nos telefones do Brasil com 7,8 e 9 números.
 
 ![Exemplo](https://github.com/williansmartins/biblioteca-javascript-telefone/blob/master/exemplo.png?raw=true)
 
-Super simples de usar esta biblioteca
+##Super simples de usar esta biblioteca.
 
 Adicionar dependências:
 ```
