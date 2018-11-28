@@ -1,5 +1,7 @@
 # biblioteca-javascript-telefone
 
+![Exemplo](https://github.com/williansmartins/biblioteca-javascript-telefone/blob/master/exemplo.png?raw=true)
+
 Super simples de usar esta biblioteca
 
 Adicionar dependências:
