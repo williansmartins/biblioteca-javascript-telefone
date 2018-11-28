@@ -2,7 +2,7 @@
 
 ![Exemplo](https://github.com/williansmartins/biblioteca-javascript-telefone/blob/master/exemplo.png?raw=true)
 
-Exemplo da biblioteca funcionando:[Link](https://williansmartins.github.io/biblioteca-javascript-telefone/)
+Exemplo da biblioteca funcionando: [clique aqui](https://williansmartins.github.io/biblioteca-javascript-telefone/)
 
 ## Super simples de usar esta biblioteca:
 
