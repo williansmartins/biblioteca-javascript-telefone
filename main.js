@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	myLib("#telefone").aplicarMascara();
+	myLib(".telefone").aplicarMascara();
 });
