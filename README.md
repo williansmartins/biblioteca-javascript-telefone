@@ -4,7 +4,7 @@
 
 Exemplo da biblioteca funcionando: [clique aqui](https://williansmartins.github.io/biblioteca-javascript-telefone/)
 
-## Super simples de usar esta biblioteca:
+## Forma de usar esta biblioteca:
 
 ### Adicionar dependências:
 ```
